@@ -1,5 +1,7 @@
 Here, we configure DNS for forward lookup as well as reverse lookup.
-1 Deployment of DNS for Forward Lookup Tree:-
+
+Deployment of DNS for Forward Lookup Tree:-
+
 Following DNS servers are configured and tested for forward lookup in the test bed hierarchy 
 hosted on IPv4:
 * Root DNS server configuration
