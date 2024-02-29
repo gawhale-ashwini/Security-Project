@@ -29,8 +29,6 @@ nano /var/named/named.ca
 ![image](https://github.com/gawhale-ashwini/Security-Project/assets/149654320/77b97054-233b-4dcd-9169-4013d2837e76)
 
 
-
-
 ```bash
 systemctl restart named
 ```
